@@ -1,0 +1,6 @@
+{
+  "name": "AI Companion",
+  "description": "Smart Onion Garden Maintainer Robot control app featuring dual-ESP32 UART integration, ESP32-CAM MJPEG stream, manual driving, and autonomous weeding, disease monitoring, and soil testing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
